@@ -14,7 +14,8 @@ body, form, div, p, a, img, h1, h2, h3, h4, h5, h6, table, table tr, table td {
 ​
 input,
 textarea,
-select {
+select,
+button {
     outline: none;
     font-family: 'Pacifico', cursive;
     color: #fff;
